@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "productName": "casque",
+      "price": 70,
+      "categorie": "two",
+      "commentaire": "solid"
+    },
+    {
+      "id": "3",
+      "productName": "telephone samsung",
+      "price": 120,
+      "categorie": "one",
+      "commentaire": "new phone"
+    },
+    {
+      "id": "5",
+      "productName": "Iphone pro max 12",
+      "price": 1045,
+      "categorie": "two",
+      "commentaire": "secand hand"
+    },
+    {
+      "id": "2",
+      "productName": "samsung galaxi 11",
+      "price": 350,
+      "categorie": "two",
+      "commentaire": "new"
+    },
+    {
+      "id": "4",
+      "productName": "Nokia",
+      "price": 25,
+      "categorie": "two",
+      "commentaire": "new"
+    },
+    {
+      "id": "6",
+      "productName": "huawey",
+      "price": 100,
+      "categorie": "two",
+      "commentaire": "secand hande"
+    },
+    {
+      "id": "7",
+      "productName": "Samsung",
+      "price": 500,
+      "categorie": "two",
+      "commentaire": "new"
+    },
+    {
+      "id": "8",
+      "productName": "iphone",
+      "price": 1500,
+      "categorie": "two",
+      "commentaire": "new"
+    }
+  ]
+}

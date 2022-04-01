@@ -1,0 +1,20 @@
+
+    <mat-toolbar color="primary">
+      <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+        <mat-icon>menu</mat-icon>
+      </button>
+      <span>My App</span>
+      <span class="example-spacer">
+
+      <!-- le menu -->
+      <button routerLinkActive="activebutton" routerLink="/home" mat-button >HOME</button>
+      <button  routerLinkActive="activebutton" routerLink="/about" mat-button >ABOUT</button>
+      <button  routerLinkActive="activebutton"  mat-button  routerLink="contact">CONTACT</button>
+      <!-- end menu -->
+
+      </span>
+    
+      
+      <button (click)="openDialog()" mat-raised-button color="warn">Add product</button>
+    </mat-toolbar>
+  
