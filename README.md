@@ -1,2 +1,2 @@
 # phonestockmanager
-test plu
+test plus
