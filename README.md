@@ -1,2 +1,2 @@
 # phonestockmanager
-test plus en core
+test plus en
